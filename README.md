@@ -1,7 +1,9 @@
 <div align = "center">
+
 <h1>
 my name is shxrkyy, i am studying computer science
 </h1>
+
 <h3>things ive made (& finished)</h3>
 Deimos Client [java]<br/>
 Discord Bot [javascript]<br/>
