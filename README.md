@@ -1,7 +1,7 @@
 <div align = "center">
 
 <h1>
-my name is shxrkyy, i am studying computer science
+my name is dylan, i am studying computer science
 </h1>
 
 <h3>things ive made (& finished)</h3>
@@ -9,6 +9,7 @@ Deimos Client [java]<br/>
 Discord Bot [javascript]<br/>
 OmegaCMD [c#]<br/>
 idle breakout game hack gen [py]<br/>
+schoolhub [html, css, and js]</br>
       <br/>
       also working on a thing or two ;)
 <h3>contact</h3>
