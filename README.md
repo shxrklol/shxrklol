@@ -1,8 +1,6 @@
-<center>
-<img src="https://raw.githubusercontent.com/0xSharkyy/0xSharkyy/main/maaaaaaaaaaaaaaaaario.jpeg">
-</center>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xSharkyy/0xSharkyy/main/maaaaaaaaaaaaaaaaario.jpeg" />
+</p>
 ```
 hi, im dylan . you might also know me as sharkyy, or other names
 i am just a person that does coding on the internet, as i enjoy it .
