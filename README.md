@@ -11,5 +11,4 @@ I do a lot of coding, I am interested in linux distros (currently running arch&h
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shxrklol&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=shxrklol&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shxrklol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
