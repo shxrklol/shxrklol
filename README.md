@@ -11,13 +11,13 @@ I do a lot of coding, I am interested in linux distros (currently running arch&h
 
 ## ⌛ Development Stats
 ```
-Total Time: 70h 19m
+Total Time: 73h 38m
 
 HTML & CSS                25h 32m 
 JavaScript / TypeScript   17h 51m
 Java                      13h 20m
+Other                     9h 42m
 Python                    7h 13m
-Other                     6h 23m
 ```
 
 # 📊 GitHub Stats:
