@@ -1,5 +1,7 @@
 # ✨ About Me:
 I do a lot of coding, I am interested in linux distros (currently running arch&hyprland), and I'm very lazy.
+I am also tinkering with switch mods
+
 
 # 💻 Tech Skills:
 ### **Languages**
