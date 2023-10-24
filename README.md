@@ -1,6 +1,8 @@
 # ✨ About Me:
 I do a lot of coding, I am interested in linux distros (currently running arch&hyprland), and I'm very lazy.
 
+You can find all of my winterm (Windows Terminal) files [here](https://github.com/shxrklol/dotjson)
+
 I am also tinkering with switch mods
 
 
